@@ -6,7 +6,7 @@ public class TresEnRaya {
 	public static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//cro las variables opcion y turno
+		//creo las variables opcion y turno
 		int opcion=0,turno=0;
 		//creo una matriz tablero que este rellenado por espacios en blanco
 		char [][] tablero = new char [3][3];
